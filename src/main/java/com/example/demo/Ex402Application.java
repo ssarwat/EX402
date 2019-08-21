@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Ex401Application {
+public class Ex402Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Ex401Application.class, args);
+        SpringApplication.run(Ex402Application.class, args);
     }
 
 }
